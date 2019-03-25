@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Chapter One</string>
+	<key>Pages</key>
+	<array>
+		<string>01 Welcome to AR.playgroundpage</string>
+		<string>02 Detecting Planes.playgroundpage</string>
+		<string>03 Hit Test.playgroundpage</string>
+		<string>04 Nodes.playgroundpage</string>
+		<string>05 Environment.playgroundpage</string>
+		<string>06 Apple and Collision.playgroundpage</string>
+		<string>07 2D World of Spritekit.playgroundpage</string>
+		<string>08 Improving the Environment.playgroundpage</string>
+		<string>09 Closing up.playgroundpage</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Diffuse</key>
+		<dict>
+			<key>Title</key>
+			<string>Diffuse</string>
+			<key>Definition</key>
+			<string>An object that manages the material&apos;s diffuse response to lighting. Diffuse shading describes the amount and color of light reflected equally in all directions from each point on the material’s surface.</string>
+		</dict>
+		<key>SKEmitterNode</key>
+		<dict>
+			<key>Title</key>
+			<string>SKEmitterNode</string>
+			<key>Definition</key>
+			<string>SKEmitterNode is a node that automatically creates and renders small particle sprites. Emitter nodes are often used to create smoke, fire, sparks, and other particle effects.</string>
+		</dict>
+		<key>SKPhysicsBody</key>
+		<dict>
+			<key>Title</key>
+			<string></string>
+			<key>Definition</key>
+			<string></string>
+		</dict>
+		<key>SKNode</key>
+		<dict>
+			<key>Title</key>
+			<string>SKNode</string>
+			<key>Definition</key>
+			<string>SKNode is the base class of all SpriteKit nodes. It provides base properties for its subclasses, such as SKShapeNode, SKSpriteNode, SKEmitterNode.</string>
+		</dict>
+		<key>SKView</key>
+		<dict>
+			<key>Title</key>
+			<string>SKView</string>
+			<key>Definition</key>
+			<string>SKView is a view subclass that renders a SpriteKit scene. When a scene is presented by the view, it alternates between running its simulation (which animates the content) and rendering the content for display.</string>
+		</dict>
+		<key>SKScene</key>
+		<dict>
+			<key>Title</key>
+			<string>SKScene</string>
+			<key>Definition</key>
+			<string>SKScene organizes all of the active SpriteKit content. It provides content that the scene animates and renders for display.</string>
+		</dict>
+		<key>SpriteKit</key>
+		<dict>
+			<key>Title</key>
+			<string>SpriteKit</string>
+			<key>Definition</key>
+			<string>SpriteKit is a general-purpose framework for drawing shapes, particles, text, images, and video in two dimensions. It utilizes Metal to achieve high-performance rendering, and offers diverse set of features such as lighting, physics, animations, and so much more.</string>
+		</dict>
+		<key>SCNPhysicsBody</key>
+		<dict>
+			<key>Title</key>
+			<string>SCNPhysicsBody</string>
+			<key>Definition</key>
+			<string>SCNPhysicsBody are physics simulation atrributes attached to a scene node. It performs physics calculations on physics bodies which include gravity, friction, and collision with other bodies. You can also apply your own force and impulses to a body.  </string>
+		</dict>
+		<key>SCNBox</key>
+		<dict>
+			<key>Definition</key>
+			<string>A six-sized polyhedron geometry whose faces are all rectangles, optionally with rounded edges and corners.</string>
+			<key>Title</key>
+			<string>SCNBox</string>
+		</dict>
+		<key>SCNCylinder</key>
+		<dict>
+			<key>Definition</key>
+			<string>A right circular geometry. </string>
+			<key>New item</key>
+			<string></string>
+		</dict>
+		<key>SCNCone</key>
+		<dict>
+			<key>Definition</key>
+			<string>A right circular cone or frustum geometry. </string>
+			<key>Title</key>
+			<string>SCNCone</string>
+		</dict>
+		<key>FeaturePoint</key>
+		<dict>
+			<key>Definition</key>
+			<string>Feature Points represent parts of the camera image likely to be part of a real-world surface. </string>
+			<key>Title</key>
+			<string>Feature Point</string>
+		</dict>
+		<key>HitTest</key>
+		<dict>
+			<key>Definition</key>
+			<string>Hit Test searches for real-world objects or surfaces detected through the AR session. A 2D point in the view&apos;s coordinate system can refer to any point along a 3D line that starts at the device camera and extends in a direction determined by the device orientation and camera projection. This method searches along that line, returning all objects that intersect it in order of distance from the camera.</string>
+			<key>Title</key>
+			<string>ARHitTest</string>
+		</dict>
+		<key>PlaneAnchor</key>
+		<dict>
+			<key>Definition</key>
+			<string>ARKit detects flat surfaces using Anchors.</string>
+			<key>Title</key>
+			<string>ARPlaneAnchor</string>
+		</dict>
+		<key>Anchor</key>
+		<dict>
+			<key>Definition</key>
+			<string>Anchors are used in AR Session to track static positions and orientations of real or virtual objects relative to the camera. </string>
+			<key>Title</key>
+			<string>ARAnchor</string>
+		</dict>
+		<key>AR</key>
+		<dict>
+			<key>Title</key>
+			<string>Augmented Reality</string>
+			<key>Definition</key>
+			<string>Augmented Reality (AR) is an interactive experience  of a real-world environment where the objects that reside in the real-world are &quot;augmented&quot; by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory, and olfactory.</string>
+		</dict>
+		<key>SCNNode</key>
+		<dict>
+			<key>Definition</key>
+			<string>A structural element of a scene graph, representing a position and transform in a 3D coordinate space, to which you can attach geometry, lights, cameras, or other displayable content.</string>
+			<key>Title</key>
+			<string>SCNNodes</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
